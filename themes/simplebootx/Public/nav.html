@@ -1,0 +1,195 @@
+{:hook('body_start')}
+
+<style>
+
+
+
+
+</style>
+<div class="navbar navbar-fixed-top">
+   <div class="navbar-inner">
+     <div class="container">
+       <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+         <span class="icon-bar"></span>
+         <span class="icon-bar"></span>
+         <span class="icon-bar"></span>
+       </a>
+       <a class="brand" href="__ROOT__/"><img src="__TMPL__Public/images/logo.png"/></a>
+       <div class="nav-collapse collapse" id="main-menu">
+  <!--     	php
+			$effected_id="main-menu";
+		  	$filetpl="<a href='\$href' target='\$target'>\$label</a>";
+		  	$foldertpl="<a href='\$href' target='\$target' class='dropdown-toggle' data-toggle='dropdown'>\$label <b class='caret'></b></a>";
+		  	$ul_class="dropdown-menu" ;
+		  	$li_class="" ;
+		  	$style="nav";
+		  	$showlevel=7;
+		  	$dropdown='dropdown';
+		  echo sp_get_menu("main",$effected_id,$filetpl,$foldertpl,$ul_class,$li_class,$style,$showlevel,$dropdown);
+		?> -->
+		<!--要会使用系统函数，上面的数据这真的很不错-->
+	   
+<ul class="nav">
+	<li class="dropdown" id="menu-item-1"><a href="/thinkcmf" target="" class="dropdown-toggle">首页</a>
+	<ul class="dropdown-menu">
+	<li class="" id="menu-item-11">
+		    <a href="{:U('portal/index/domain')}" target="">公司新闻</a>
+   </li>
+	<li class="" id="menu-item-11">
+	      <a  href="" target="">产品与服务</a>
+	</li>	
+		
+	<li class="" id="menu-item-11">
+		    <a href="{:U('portal/index/article')}" target="">行业动态</a>
+		</li>
+		
+		<li class="" id="menu-item-11">
+		    <a href="" target="">公司资质</a>
+		</li>
+		
+		<li class="" id="menu-item-11">
+		    <a href="{:U('portal/index/va')}" target="">关于我们</a>
+		</li>
+		<li class="" id="menu-item-11">
+		    <a href="{:U('portal/index/enter_culture')}" target="">企业文化</a>
+		</li>
+		<li class="" id="menu-item-11">
+		<a href="{:U('portal/Index/zhaopin')}" target="">招聘信息</a>
+		</li>
+		<li class="" id="menu-item-11">
+		    <a href="{:U('portal/Index/contact')}" target="_blank">联系我们</a>
+		</li>
+	</ul>
+	</li>
+	<li class="dropdown" id="menu-item-11"><a href="" target="" class="dropdown-toggle">产品与服务</a>
+	<ul class="dropdown-menu">
+	<li class="" id="menu-item-11">
+		    <a href="#" target="">产品与服务一</a>
+		</li>
+	<li class="" id="menu-item-11">
+		    <a href="#" target="">产品与服务二</a>
+		</li>
+	<li class="" id="menu-item-11">
+		    <a href="#" target="">产品与服务三</a>
+		</li>
+	<li class="" id="menu-item-11">
+		    <a href="#" target="">产品与服务四</a>
+		</li>
+	<li class="" id="menu-item-11">
+		    <a href="#" target="">产品与服务五</a>
+		</li>
+	</ul>
+	</li>
+	<li class="dropdown" id="menu-item-12">
+	    <a class="dropdown-toggle" href="{:U('portal/index/domain')}" target="">公司新闻</a>
+            <ul class="dropdown-menu">
+		<li class="" id="menu-item-11">
+		    <a href="#" target="">公司新闻一</a>
+		</li>
+		<li class="" id="menu-item-11">
+		    <a href="#" target="">公司新闻二</a>
+		</li>
+		<li class="" id="menu-item-11">
+		    <a href="#" target="">公司新闻三</a>
+		</li>
+	    </ul>
+	</li>
+	
+<li class="dropdown" id="menu-item-12">
+	    <a class="dropdown-toggle" href="{:U('portal/index/article')}" target="">行业动态</a>
+            <ul class="dropdown-menu">
+		<li class="" id="menu-item-11">
+		    <a href="#" target="">行业动态一</a>
+		</li>
+		<li class="" id="menu-item-11">
+		    <a href="#" target="">行业动态二</a>
+		</li>
+		<li class="" id="menu-item-11">
+		    <a href="#" target="">行业动态三</a>
+		</li>
+	    </ul>
+	</li>
+
+	<li class="dropdown" id="menu-item-12">
+	    <a class="dropdown-toggle" href="{:U('portal/index/enter_culture')}" target="">企业文化</a>
+            <ul class="dropdown-menu">
+		<li class="" id="menu-item-11">
+		    <a href="#" target="">企业文化一</a>
+		</li>
+		<li class="" id="menu-item-11">
+		    <a href="#" target="">企业文化二</a>
+		</li>
+		<li class="" id="menu-item-11">
+		    <a href="#" target="">企业文化三</a>
+		</li>
+	    </ul>
+	</li>
+	
+	
+
+		<li class="dropdown" id="menu-item-12">
+	    <a class="dropdown-toggle" href="{:U('portal/index/va')}" target="">关于我们</a>
+		<ul class="dropdown-menu">
+		<li class="" id="menu-item-11">
+		<a href=""target=""><img src="__TMPL__Public/images/logo.png"></a>
+		</li>
+		</ul>
+	</li>
+	<li class="dropdown" id="menu-item-12">
+	    <a class="dropdown-toggle" href="{:U('portal/Index/contact')}" target="">联系我们</a>
+	<ul class="dropdown-menu">
+		<li class="" id="menu-item-11">
+		<a href=""target="">0571-123456</a>
+		</li>
+		</ul>
+	</li>
+		<li class="dropdown" id="menu-item-12">
+	    <a class="dropdown-toggle" href="{:U('portal/Index/zhaopin')}" target="">招聘信息</a>
+            <ul class="dropdown-menu">
+		<li class="" id="menu-item-11">
+		    <a href="#" target="">招聘信息一</a>
+		</li>
+		<li class="" id="menu-item-11">
+		    <a href="#" target="">招聘信息二</a>
+		</li>
+		<li class="" id="menu-item-11">
+		    <a href="#" target="">招聘信息三</a>
+		</li>
+	    </ul>
+	</li>
+</ul>
+		<!--用户登录-->
+		<!--  <ul class="nav pull-right" id="main-menu-user">
+			<li class="dropdown user login">
+	            <a class="dropdown-toggle user" data-toggle="dropdown" href="#">
+	            <img src="__TMPL__/Public/images/headicon.png" class="headicon"/>
+	            <span class="user-nicename"></span><b class="caret"></b></a>
+	            <ul class="dropdown-menu pull-right">
+	              <!--  <li><a href="{:U('user/center/index')}"><i class="fa fa-user"></i> &nbsp;个人中心</a></li> -->
+	              <!--  <li class="divider"></li>
+	               <li><a href="{:U('user/index/logout')}"><i class="fa fa-sign-out"></i> &nbsp;退出</a></li>
+	            </ul>
+          	</li>
+          	<li class="dropdown user offline">
+	            <a class="dropdown-toggle user" data-toggle="dropdown" href="#">
+	           		<img src="__TMPL__/Public/images/login.jpg" class="headicon"/>登录?注册<b class="caret"></b>
+	            </a>
+	            <ul class="dropdown-menu pull-right"> --> 
+	               <!-- <li><a href="{:U('api/oauth/login',array('type'=>'sina'))}"><i class="fa fa-weibo"></i> &nbsp;微博登录</a></li>
+	               <li><a href="{:U('api/oauth/login',array('type'=>'qq'))}"><i class="fa fa-qq"></i> &nbsp;QQ登录</a></li> -->
+	 <!--               <li><a href="{:leuu('user/login/index')}"><i class="fa fa-sign-in"></i> &nbsp;登录</a></li>
+	               <li class="divider"></li>
+	               <li><a href="{:leuu('user/register/index')}"><i class="fa fa-user"></i> &nbsp;注册</a></li>
+	            </ul>
+          	</li>
+		</ul>  -->
+	<!-- <div class="pull-right">
+        	<form method="post" class="form-inline" action="{:U('portal/search/index')}" style="margin:18px 0;">
+				 <input type="text" class="" placeholder="Search" name="keyword" value="{:I('get.keyword')}"/>
+				 <input type="submit" class="btn btn-info" value="Go" style="margin:0"/>
+			</form>
+		</div> --> 
+       </div>
+     </div>
+   </div>
+ </div>

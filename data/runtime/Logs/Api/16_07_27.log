@@ -1,0 +1,17 @@
+[ 2016-07-27T09:29:42+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=api&m=guestbook&a=addmsg
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `ty_guestbook` [ RunTime:0.0020s ]
+
+[ 2016-07-27T09:29:51+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=api&m=guestbook&a=addmsg
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ty_guestbook` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: validate C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `ty_guestbook` (`full_name`,`email`,`title`,`msg`,`createtime`) VALUES ('11111','1111@qq.com','ccccc','发打发打发','2016-07-27 09:29:51') [ RunTime:0.0010s ]
+

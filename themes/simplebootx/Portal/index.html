@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<title>首页-{$site_name}</title>
+		<meta name="keywords" content="{$site_seo_keywords}" />
+		<meta name="description" content="{$site_seo_description}">
+		<tc_include file="Public:head" />
+		<link href="__TMPL__Public/css/slippry/slippry.css" rel="stylesheet">
+		<style>
+			.caption-wraper{position: absolute;left:50%;bottom:2em;}
+			.caption-wraper .caption{
+			position: relative;left:-50%;
+			background-color: rgba(0, 0, 0, 0.54);
+			padding: 0.4em 1em;
+			color:#fff;
+			-webkit-border-radius: 1.2em;
+			-moz-border-radius: 1.2em;
+			-ms-border-radius: 1.2em;
+			-o-border-radius: 1.2em;
+			border-radius: 1.2em;
+			}
+			@media (max-width: 767px){
+				.sy-box{margin: 12px -20px 0 -20px;}
+				.caption-wraper{left:0;bottom: 0.4em;}
+				.caption-wraper .caption{
+				left: 0;
+				padding: 0.2em 0.4em;
+				font-size: 0.92em;
+				-webkit-border-radius: 0;
+				-moz-border-radius: 0;
+				-ms-border-radius: 0;
+				-o-border-radius: 0;
+				border-radius: 0;}
+			}
+.indexBoxTwoCase{ width:1230px; }
+.indexBoxTwoCase > div:first-child{ height:80px; font-size:23px; line-height:80px; text-indent:5px; }
+.indexBoxTwoCase hr{ width:1097px; float:right; margin-top:40px;}
+.indexBoxTwoCaseBody li{ width:199px; height:100px; float:left; border:1px solid #d9d9d9; margin:-1px -1px 0 0; }
+.indexBoxTwoCaseBody li:hover{ border:1px solid #EF512C; z-index:1; position:relative; }																					
+.indexBoxTwoNews{ width:1200px; margin-top:10px; }
+.indexBoxTwoNewsLeft{ width:570px; float:left; }		
+.indexBoxTwoNews > div:first-child{ height:80px; font-size:23px; line-height:80px; }
+.indexBoxTwoNews hr{ width:1102px; float:right; margin-top:40px;}
+.indexBoxTwoNews h2{ font-weight:normal; }
+.indexBoxTwoNewsRight{ width:570px; float:right; }
+.indexBoxTwoNewsLeftText div{ float:left; font-size:16px; }
+.indexBoxTwoNewsLeft > div{ border:1px solid #d9d9d9; padding:20px 5px; margin:15px 0; }
+.indexBoxTwoNewsRight > div{ border:1px solid #d9d9d9; padding:20px 5px; margin:15px 0; }						
+.indexBoxThree{ width:100%; min-height:100px; background:#fff; margin-top:20px; padding-bottom:40px; }
+.indexBoxThreeBody{ width:1200px; min-height:50px; margin:0 auto;}
+.hezuo{ font-size:16px; line-height:50px;}
+.indexBoxThreeBody div{ width:200px; height:80px; background:white; float:left; margin-right:50px; margin-bottom:10px; }
+.indexBoxThreeBody div:nth-child(5){ margin-right:0; }
+.indexBoxThreeBody div:nth-child(10){ margin-right:0; }
+.indexBoxThreeBody div:nth-child(15){ margin-right:0; }
+.indexBoxThreeBody div:nth-child(20){ margin-right:0; }
+.indexBoxThreeBody div:nth-child(25){ margin-right:0; }	
+ .a{font-size:18px;color:#CDCDB4;text-decoration:none;}	
+ 
+ .indexBoxTwoDescribe{ width:1200px; }
+.indexBoxTwoDescribe > div{ height:80px; font-size:23px;  line-height:80px; text-indent:5px; }
+.indexBoxTwoDescribe hr{ width:1097px; float:right; margin-top:40px;}
+.indexBoxTwoDescribe td{ border:0 solid #d9d9d9; padding:0 0; width:298px; height:400px; }
+.indexBoxTwoDescribe h2{ margin:10px 0; text-align:center; font-weight:normal; }
+.indexBoxTwoDescribe table div{ font-size:14px; color:#666666; }
+
+.indexBoxTwoDescribes{ width:1200px; margin-top:10px; }
+.indexBoxTwoDescribes > div{ height:80px; font-size:23px; line-height:80px; text-indent:5px; }
+.indexBoxTwoDescribes hr{ width:1030px; float:right; margin-top:40px;}
+.indexBoxTwoDescribes table{ margin-top:-20px; }
+.indexBoxTwoDescribes td{ width:400px; height:140px; }
+.indexBoxTwoDescribesText1{ float:left; width:170px; text-align:center; }
+.indexBoxTwoDescribesText2{ float:left; width:190px; }
+.indexBoxTwoDescribesText2 h2{ margin-top:20px; font-weight:normal; }
+.indexBoxTwoDescribesText2 span{ font-size:14px; color:#666; }
+
+
+ .indexBoxTwoDescribe1{ width:1200px; }
+.indexBoxTwoDescribe1 > div{ height:80px; font-size:23px;  line-height:80px; text-indent:5px; }
+.indexBoxTwoDescribe1 hr{ width:1097px; float:right; margin-top:40px;}
+.indexBoxTwoDescribe1 td{ border:0 solid #d9d9d9; padding:0 0; width:298px; height:300px; }
+.indexBoxTwoDescribe1 h2{ margin:10px 0; text-align:center; font-weight:normal; }
+.indexBoxTwoDescribe1 table div{ font-size:14px; color:#666666; }
+</style>
+</head>
+<body class="body-white">
+<tc_include file="Public:nav" />
+
+<php>
+$home_slides=sp_getslide("portal_index");
+$home_slides=empty($home_slides)?$default_home_slides:$home_slides;
+</php>
+<ul id="homeslider" class="unstyled">
+	<foreach name="home_slides" item="vo">
+	<li>
+		<div class="caption-wraper">
+			<div class="caption">{$vo.slide_name}</div>
+		</div>
+		<a href="{$vo.slide_url}"><img src="{:sp_get_asset_upload_path($vo['slide_pic'])}" alt="" title=""></a>
+	</li>
+	</foreach>
+</ul>
+
+<div class="">
+<div>
+<div class="container">
+<div class="indexBoxTwo">
+        <div class="indexBoxTwoDescribe">
+            <div>关于我们<hr color="#d9d9d9" size="1"></hr></div>
+            <table>
+				<tbody><tr border="2" cellpadding="0" cellspacing="3px">
+               <td style="no-repeat center 180px; cellspacing:0px;" valign="top">
+			 <!--添加代码结束-->
+				  <!--  <img src="__TMPL__Public/images/bank/3.jpg"width="298px"height="200px" title="关于我们" > -->
+				   <p style="text-align:center;font-size:20px;">关于我们</p>
+				    <!--添加代码-->
+			  <php>
+				   $sp=sp_sql_posts('cid:11;field:post_title,post_excerpt,smeta,tid,post_content,post_modified;order:post_modified desc;limit:1;');
+				   </php>
+			   <foreach name="sp" item="vo8">
+		<php>$smeta=json_decode($vo8['smeta'],true);</php>
+		<div class="span3">
+			<div class="tc-gridbox">
+				<div class="header">
+					<div class="item-image">
+							<if condition="!empty($smeta['thumb'])"> 
+								<img src="{:sp_get_asset_upload_path($smeta['thumb'])}" class="img-responsive img-thumbnail" alt="{$vo8.post_title}" /> {$vo8.post_excerpt|msubstr=0,35}	
+				   <a href="{:U('portal/index/va')}" class='a'target="">更多详情&gt;&gt;</a>  
+							<else /> 
+							{$vo8.post_content|msubstr=0,35}
+							<a href="{:U('portal/index/va')}" class='a'target="">更多详情&gt;&gt;</a>
+							</if>
+					</div>
+					</div>
+					</div>
+				   </foreach>
+           </td>
+                    <td style="no-repeat center 180px;" valign="top">
+                      <!--   <img src="__TMPL__Public/images/bank/1.jpg" width="298px"height="200px" title="公司品牌"> -->
+									   <p style="text-align:center;font-size:20px;">公司品牌</p>
+									   <php>
+									   $sp1=sp_sql_posts('cid:18;field:post_title,post_excerpt,post_content,smeta,tid,post_modified;order:post_modified desc;limit:1;');					
+									   </php>
+						<foreach name="sp1" item="vo9">
+						<!--代码添加-->
+			<php>$smeta=json_decode($vo9['smeta'],true);</php>
+	      	<div class="span3">
+			<div class="tc-gridbox">
+				<div class="header">
+					<div class="item-image">
+							<if condition="!empty($smeta['thumb'])"> 
+								<img src="{:sp_get_asset_upload_path($smeta['thumb'])}" class="img-responsive img-thumbnail" alt="{$vo9.post_title}" />{$vo9.post_excerpt|msubstr=0,35} 
+						<a href="#" class="a" target="">更多详情&gt;&gt;</a>
+							<else /> 
+								{$vo9.post_content|msubstr=0,35}
+								<a href="#" class="a" target="">更多详情&gt;&gt;</a>
+							</if>
+						</div>
+						</div>
+					</div>
+					</div>
+						<!--代码添加结束-->
+                    </foreach>						
+                   
+                    <td style="no-repeat center 180px;" valign="top">
+                      <!--  <img src="__TMPL__Public/images/bank/5.jpg"width="298px"height="200px"title="公司发展规划"> -->
+					   <p style="text-align:center;font-size:20px;">公司发展规划</p>
+             <php>
+			 $sp3=sp_sql_posts('cid:20;field:post_title,post_excerpt,post_content,post_modified,tid,smeta;order:post_modified desc;limit:1');
+			 </php> 
+   			 <foreach name="sp3" item="vo11">
+			 <php>
+			 $smeta=json_decode($vo11['smeta'],true);
+			 </php>
+			 <div class="span3">
+								<div class="tc-gridbox">
+							<div class="header">
+								<div class="item-image">
+								<if condition="!empty($smeta['thumb'])"> 
+								<img src="{:sp_get_asset_upload_path($smeta['thumb'])}" class="img-responsive img-thumbnail" alt="{$vo11.post_title}" /> 
+								{$vo11.post_excerpt|msubstr=0,35}
+			              <a href="#"class="a"target="">更多详情&gt;&gt;</a>
+							<else /> 
+								{$vo11.post_content|msubstr=0,35}
+								<a href="#" class="a" target="">更多详情&gt;&gt;</a>
+							</if>
+						
+					</div>
+			</div>
+			</div>
+			</div>
+			 </foreach>
+            </td>
+			
+			 </td>
+                    <td style="no-repeat center 180px;" valign="top">
+                      <!--   <img src="__TMPL__Public/images/bank/4.jpg"width="298px"height="200px" title="公司业务"> -->
+									   <p style="text-align:center;font-size:20px;">企业文化</p>
+									   <php>
+									   $sp2=sp_sql_posts('cid:13;field:post_title,post_content,post_excerpt,post_modified,smeta,tid;order:post_modified desc;limit:1');
+									   </php>
+									   <foreach name="sp2" item="vo10">
+									   <php>
+									   $smeta=json_decode($vo10['smeta'],true);
+									   </php>
+										<div class="span3">
+								<div class="tc-gridbox">
+							<div class="header">
+								<div class="item-image">
+								<if condition="!empty($smeta['thumb'])"> 
+								<img src="{:sp_get_asset_upload_path($smeta['thumb'])}" class="img-responsive img-thumbnail" alt="{$vo10.post_title}" /> {$vo10.post_excerpt|msubstr=0,35,utf8,true} 
+                          <a href="{:U('portal/index/enter_culture')}" class='a'target="">更多详情&gt;&gt;</a>  
+							<else /> 
+								{$vo10.post_content|msubstr=0,35}
+								<a href="{:U('portal/index/enter_culture')}" class="a" target="">更多详情&gt;&gt;</a>
+							</if>
+					</div>
+					</div>
+					</div>
+					</div>
+						<!--代码添加结束-->
+				                  </foreach>
+                    </td>
+			
+          </tr>
+         </tbody>
+			</table>
+        </div>
+        <div class="indexBoxTwoDescribes">
+            <div>公司的主导业务<hr color="#d9d9d9" size="1"></div>
+            <table>
+                <tbody><tr>
+				       <!--此处利用sp_sql_posts函数来获取公司主导业务的内容-->
+					   <php>
+					   $zhudao=sp_sql_posts('cid:12;field:post_title,post_excerpt,smeta,tid,post_content,post_modified;order:post_modified desc;limit:0,4;');
+					   </php>
+					   <foreach name="zhudao" item="vo4">
+                    <td>
+                        <!-- <div class="indexBoxTwoDescribesText1"><img src="__TMPL__Public/images/bank/1.jpg" alt=""></div> -->
+                        <ul>
+						<div class="indexBoxTwoDescribesText2"><a href="{:U('portal/article/index',array('id'=>$vo4[tid],'cid'=>$vo4['term_id']))}" style="text-decoration:none;">
+						<h2>
+						{$vo4.post_title}</h2></a></div>
+                    </ul></td>
+					</foreach>
+                </tr>
+            </tbody>
+			</table>
+        </div>
+		
+		<!--添加代码-->
+		  <div class="indexBoxTwoDescribe1">
+            <div>案例展示<hr color="#d9d9d9" size="1"></hr></div>
+            <table>
+				<tbody><tr border="2" cellpadding="0" cellspacing="3px">
+               <td style="no-repeat center 180px; cellspacing:0px;" valign="top">
+			  <php>
+				   $sp=sp_sql_posts('cid:22;field:post_title,post_excerpt,smeta,tid,post_content,post_modified;order:post_modified desc;limit:1;');
+				   </php>
+			   <foreach name="sp" item="vo8">
+		<php>$smeta=json_decode($vo8['smeta'],true);</php>
+		<div class="span3">
+			<div class="tc-gridbox">
+				<div class="header">
+					<div class="item-image">
+							<if condition="!empty($smeta['thumb'])"> 
+								<a href=><img src="{:sp_get_asset_upload_path($smeta['thumb'])}" class="img-responsive img-thumbnail" alt="{$vo8.post_title}" /> 
+							</if>
+					</div>
+					</div>
+					</div>
+				   </foreach>
+           </td>
+                    <td style="no-repeat center 180px;" valign="top">
+                      <!--   <img src="__TMPL__Public/images/bank/1.jpg" width="298px"height="200px" title="公司品牌"> -->
+									<!--    <p style="text-align:center;font-size:20px;">公司品牌</p> -->
+									   <php>
+									   $sp1=sp_sql_posts('cid:23;field:post_title,post_excerpt,post_content,smeta,tid,post_modified;order:post_modified desc;limit:1;');					
+									   </php>
+						<foreach name="sp1" item="vo9">
+						<!--代码添加-->
+			<php>$smeta=json_decode($vo9['smeta'],true);</php>
+	      	<div class="span3">
+			<div class="tc-gridbox">
+				<div class="header">
+					<div class="item-image">
+							<if condition="!empty($smeta['thumb'])"> 
+								<img src="{:sp_get_asset_upload_path($smeta['thumb'])}" class="img-responsive img-thumbnail" alt="{$vo9.post_title}" />{$vo9.post_excerpt|msubstr=0,35} 
+							</if>
+						</div>
+						</div>
+					</div>
+					</div>
+						<!--代码添加结束-->
+                    </foreach>						
+                   
+                    <td style="no-repeat center 180px;" valign="top">
+                      <!--  <img src="__TMPL__Public/images/bank/5.jpg"width="298px"height="200px"title="公司发展规划"> -->
+					<!--    <p style="text-align:center;font-size:20px;">公司发展规划</p> -->
+             <php>
+			 $sp3=sp_sql_posts('cid:24;field:post_title,post_excerpt,post_content,post_modified,tid,smeta;order:post_modified desc;limit:1');
+			 </php> 
+   			 <foreach name="sp3" item="vo11">
+			 <php>
+			 $smeta=json_decode($vo11['smeta'],true);
+			 </php>
+			 <div class="span3">
+								<div class="tc-gridbox">
+							<div class="header">
+								<div class="item-image">
+								<if condition="!empty($smeta['thumb'])"> 
+								<img src="{:sp_get_asset_upload_path($smeta['thumb'])}" class="img-responsive img-thumbnail" alt="{$vo11.post_title}" /> 
+
+							</if>
+						
+					</div>
+			</div>
+			</div>
+			</div>
+			 </foreach>
+            </td>
+			
+			 </td>
+                    <td style="no-repeat center 180px;" valign="top">
+                      <!--   <img src="__TMPL__Public/images/bank/4.jpg"width="298px"height="200px" title="公司业务"> -->
+								<!-- 	   <p style="text-align:center;font-size:20px;">企业文化</p> -->
+									   <php>
+									   $sp2=sp_sql_posts('cid:25;field:post_title,post_content,post_excerpt,post_modified,smeta,tid;order:post_modified desc;limit:1');
+									   </php>
+									   <foreach name="sp2" item="vo10">
+									   <php>
+									   $smeta=json_decode($vo10['smeta'],true);
+									   </php>
+										<div class="span3">
+								<div class="tc-gridbox">
+							<div class="header">
+								<div class="item-image">
+								<if condition="!empty($smeta['thumb'])"> 
+								<img src="{:sp_get_asset_upload_path($smeta['thumb'])}" class="img-responsive img-thumbnail" alt="{$vo10.post_title}" /> 
+							</if>
+					</div>
+					</div>
+					</div>
+					</div>
+						<!--代码添加结束-->
+				                  </foreach>
+                    </td>
+			
+          </tr>
+         </tbody>
+			</table>
+        </div>
+		
+		
+		
+		
+		
+		
+		<!--添加代码-->
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+    <!--     <div class="indexBoxTwoCase">
+            <div>案例展示<hr color="#d9d9d9" size="1"></div>
+			<php>
+			$sp=sp_sql_posts('cid:22;field:post_title,post_excerpt,post_content,post_modified,tid,smeta;order:post_modified desc;limit:1;');
+				$sp1=sp_sql_posts('cid:23;field:post_title,post_excerpt,post_content,post_modified,tid,smeta;order:post_modified desc;limit:1;');
+					$sp2=sp_sql_posts('cid:24;field:post_title,post_excerpt,post_content,post_modified,tid,smeta;order:post_modified desc;limit:1;');
+						$sp3=sp_sql_posts('cid:25;field:post_title,post_excerpt,post_content,post_modified,tid,smeta;order:post_modified desc;limit:1;');
+			</php> -->
+	        
+           <!--  <ul class="indexBoxTwoCaseBody">
+	          		<li><foreach name="sp" item="vo13">
+					     {$vo13.post_title}
+						 
+	<!-- 					<a href="javascript:void"><li style="background:url(__TMPL__Public/images/bank/12.jpg) no-repeat center center;background-size: 90%;"></li></a>-->
+			           <!--  </foreach>
+						</li>
+					</li>	<foreach name="sp1" item="vo14">
+						{$vo14.post_title}
+						</foreach>
+						</li>
+						<li><foreach name="sp2" item="vo15">
+						{$vo15.post_title}
+						</foreach>
+						</li>
+						<li>
+						<foreach name="sp3" item="vo16">
+						{$vo16.post_title}
+						</foreach>
+						</li>
+						</ul> -->
+            <div style="clear:both;"></div>
+        </div>
+	<div class="indexBoxTwoNews">
+     <div >新闻中心
+	
+			<hr color="#d9d9d9" size="1"></div>
+            <div>
+                <div class="indexBoxTwoNewsLeft">
+				
+                    <h3 style="font-size:23px;">公司新闻&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{:U('portal/index/domain')}" class="a" title="请点击浏览更多资讯">更多&gt;&gt;</a></h3>
+                    <div>
+					
+                        <div class="indexBoxTwoNewsLeftText">
+						 <php>
+		           $company_news=sp_sql_posts("cid:7;field:post_title,post_excerpt,tid,smeta,post_modified;order:post_modified desc;limit:5;"); 
+	                </php>
+						<volist name="company_news" id="vo1">
+                    <div style="float:left;width:400px;">
+                    <img src="__TMPL__Public/images/2.png" alt="">
+                      <a href="{:U('portal/article/index',array('id'=>$vo1[tid],'cid'=>$vo1['term_id']))}">{$vo1.post_title}</a>
+                            </div>
+                            <div style="float:left;">{$vo1.post_modified}</div>
+                        
+                                <p style="clear:both;"></p>
+								    </volist> 
+                        </div>
+						 
+                    </div>
+                </div>
+                <div class="indexBoxTwoNewsRight">
+                    <h3 style="font-size:23px;">行业动态&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{:U('portal/index/article')}"class="a" title="请点击浏览更多资讯">更多&gt;&gt;</a></h3>
+                    <div>
+                        <div class="indexBoxTwoNewsLeftText">
+						<php>
+						$hangye_domain=sp_sql_posts("cid:8;field:post_title,post_excerpt,tid,smeta,post_modified;order:post_modified desc;limit:5");
+						 </php>
+						   <volist name="hangye_domain" id="vo2">
+                         <div style="float:left;width:400px;">
+                                <img src="__TMPL__Public/images/2.png" alt="">
+                                <a href="{:leuu('portal/article/index',array('id'=>$vo2['tid'],'cid'=>$vo2['term_id']))}" target='_blank'>{$vo2.post_title}</a>
+                            </div>
+                            <div style="float:left;">{$vo2.post_modified}</div>
+                             <p style="clear:both;"></p>
+						</volist>
+                        </div>
+                    </div>
+                </div>
+                <div style="clear:both;"></div>
+            </div>
+				
+	<div class="indexBoxThree">
+        <div class="indexBoxThreeBody hezuo"style="font-size:27px;">合作伙伴</div>
+	   </br>
+        <div class="indexBoxThreeBody">
+					<div style="background:url('__TMPL__Public/images/logo/chinanet.png') no-repeat center center;background-size: 100%;"></div>
+					<div style="background:url('__TMPL__Public/images/logo/mobile.png') no-repeat center center;background-size: 100%;"></div>
+					<div style="background:url('__TMPL__Public/images/logo/unicom.png') no-repeat center center;background-size: 100%;"></div>
+					<div style="background:url('__TMPL__Public/images/logo/yizhifu.png') no-repeat center center;background-size: 100%;"></div>
+					<div style="background:url('__TMPL__Public/images/logo/tianyi.png') no-repeat center center;background-size: 100%;"></div>
+					<div style="background:url('__TMPL__Public/images/logo/super.png') no-repeat center center;background-size: 100%;"></div>
+					<div style="background:url('__TMPL__Public/images/bank/1.jpg') no-repeat center center;background-size:100%;"></div>	
+					<div style="background:url('__TMPL__Public/images/bank/2.jpg') no-repeat center center;background-size:100%;"></div>	
+					<div style="background:url('__TMPL__Public/images/bank/3.jpg') no-repeat center center;background-size:100%;"></div>	
+					<div style="background:url('__TMPL__Public/images/bank/4.jpg') no-repeat center center;background-size:100%;"></div>	
+					<div style="background:url('__TMPL__Public/images/bank/5.jpg') no-repeat center center;background-size:100%;"></div>	
+					<div style="background:url('__TMPL__Public/images/bank/6.jpg') no-repeat center center;background-size:100%;"></div>	
+					<div style="background:url('__TMPL__Public/images/bank/7.jpg') no-repeat center center;background-size:100%;"></div>	
+					<div style="background:url('__TMPL__Public/images/bank/8.jpg') no-repeat center center;background-size:100%;"></div>	
+					<div style="background:url('__TMPL__Public/images/bank/9.jpg') no-repeat center center;background-size:100%;"></div>	
+					<div style="background:url('__TMPL__Public/images/bank/10.jpg') no-repeat center center;background-size:100%;"></div>	
+					<div style="background:url('__TMPL__Public/images/bank/11.jpg') no-repeat center center;background-size:100%;"></div>	
+					<div style="background:url('__TMPL__Public/images/bank/12.jpg') no-repeat center center;background-size:100%;"></div>	
+		            <p style="clear:both;"></p>
+        </div>
+    </div>
+</div>
+<tc_include file="Public:footer"/>
+</div>
+<tc_include file="Public:scripts"/>
+<script src="__TMPL__Public/js/slippry.min.js"></script>
+<script>
+$(function() {
+	var demo1 = $("#homeslider").slippry({
+		transition: 'fade',
+		useCSS: true,
+		captions: false,
+		speed: 1000,
+		pause: 2000,
+		auto: true,
+		preload: 'visible'
+	});
+});
+</script>
+{:hook('footer_end')}
+</body>
+</html>

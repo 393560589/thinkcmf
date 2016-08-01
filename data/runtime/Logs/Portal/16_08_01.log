@@ -1,0 +1,39 @@
+[ 2016-08-01T10:11:39+08:00 ] ::1 /thinkcmf/
+NOTIC: D方法实例化没找到模型类Admin\Model\LinksModel
+NOTIC: D方法实例化没找到模型类portal\Model\PostsModel
+
+[ 2016-08-01T10:12:30+08:00 ] ::1 /thinkcmf/
+NOTIC: D方法实例化没找到模型类Admin\Model\LinksModel
+NOTIC: D方法实例化没找到模型类portal\Model\PostsModel
+
+[ 2016-08-01T10:12:31+08:00 ] ::1 /thinkcmf/
+NOTIC: D方法实例化没找到模型类Admin\Model\LinksModel
+NOTIC: D方法实例化没找到模型类portal\Model\PostsModel
+
+[ 2016-08-01T10:12:31+08:00 ] ::1 /thinkcmf/
+NOTIC: D方法实例化没找到模型类Admin\Model\LinksModel
+NOTIC: D方法实例化没找到模型类portal\Model\PostsModel
+
+[ 2016-08-01T10:14:57+08:00 ] ::1 /thinkcmf/
+NOTIC: D方法实例化没找到模型类Admin\Model\LinksModel
+NOTIC: D方法实例化没找到模型类portal\Model\PostsModel
+
+[ 2016-08-01T10:17:03+08:00 ] 127.0.0.1 /thinkcmf/
+NOTIC: D方法实例化没找到模型类Admin\Model\LinksModel
+NOTIC: D方法实例化没找到模型类portal\Model\PostsModel
+
+[ 2016-08-01T10:17:09+08:00 ] 127.0.0.1 /thinkcmf/
+NOTIC: D方法实例化没找到模型类Admin\Model\LinksModel
+NOTIC: D方法实例化没找到模型类portal\Model\PostsModel
+
+[ 2016-08-01T10:17:24+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=portal&m=index&a=domain
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-08-01T10:17:28+08:00 ] 127.0.0.1 /thinkcmf/
+NOTIC: D方法实例化没找到模型类Admin\Model\LinksModel
+NOTIC: D方法实例化没找到模型类portal\Model\PostsModel
+
+[ 2016-08-01T10:21:40+08:00 ] ::1 /thinkcmf/
+NOTIC: D方法实例化没找到模型类Admin\Model\LinksModel
+NOTIC: D方法实例化没找到模型类portal\Model\PostsModel
+

@@ -1,0 +1,2121 @@
+[ 2016-07-28T09:03:59+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:04:06+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:04:13+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:04:14+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:04:15+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:04:16+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:04:18+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:04:23+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:04:24+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:04:25+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:04:29+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:04:29+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:04:33+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:04:34+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:04:34+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:12:31+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:12:33+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:12:35+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:12:36+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:12:37+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:12:51+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:13:42+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:22:14+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:24:02+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:24:45+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:24:48+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:26:30+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:30:36+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:33:21+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016600s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:33:26+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:33:28+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:33:29+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:33:30+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:33:32+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:33:33+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:34:38+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:34:47+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:34:47+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:34:48+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:34:48+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:34:49+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:34:49+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:34:51+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:34:59+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:35:00+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:35:03+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:36:01+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:36:02+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:38:39+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:38:41+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:38:44+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:38:45+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:39:10+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:39:14+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:40:31+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:40:32+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:41:00+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:41:01+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:42:00+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:42:03+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:42:04+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:42:04+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:42:04+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:42:04+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:44:50+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:44:51+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:44:51+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:45:01+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:46:07+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:46:08+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T09:46:27+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T10:08:19+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T10:08:20+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T10:08:47+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T11:32:21+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T11:33:06+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T11:33:19+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T11:33:23+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T13:32:15+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T13:32:25+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T13:32:29+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T13:32:30+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T13:32:42+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T13:32:46+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T13:32:47+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T13:32:48+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T13:32:51+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T13:32:52+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T13:32:53+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T13:33:56+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T13:46:49+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T13:46:51+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T13:48:38+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:03:17+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:03:24+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:24:43+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:24:57+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:26:02+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:26:03+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:26:20+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:26:32+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:26:45+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:27:04+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:27:10+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:27:20+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:27:22+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:27:23+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:27:24+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:28:07+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:31:32+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:32:45+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:32:47+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:33:57+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:34:02+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:34:02+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:34:03+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:34:35+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:35:33+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:36:14+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:36:23+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:37:06+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:37:11+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:39:12+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:40:58+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:43:15+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:44:53+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:45:17+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:45:35+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:45:49+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:51:26+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:51:52+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:52:00+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:52:11+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:52:45+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:52:48+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:52:48+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:52:49+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:52:49+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:52:50+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:53:21+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:53:26+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:53:48+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T15:53:57+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:03:27+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:03:32+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:03:34+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:03:35+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:03:38+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:05:00+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:07:59+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:08:00+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:08:01+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:08:01+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:08:02+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:08:02+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:08:03+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:08:04+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:22:41+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:22:43+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:23:10+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:23:12+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:23:13+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:23:13+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:23:18+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:24:10+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:27:49+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:28:03+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:28:26+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:28:28+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:28:31+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:29:35+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:29:39+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:29:43+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:29:46+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:33:46+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:33:49+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:33:50+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:33:50+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:33:51+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:33:55+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:33:59+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:00+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:01+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:02+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:03+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:34+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:35+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:36+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:36+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:36+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:36+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:36+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:39+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:39+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:40+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:40+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:40+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:41+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:34:41+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:37:27+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:37:29+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:37:31+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:37:44+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:37:50+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:37:50+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:37:52+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:37:54+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:37:56+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:37:58+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:38:06+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:38:07+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:38:21+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:48:36+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:49:17+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:50:50+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:51:40+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:52:07+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:52:15+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:53:23+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:53:24+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:53:24+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:53:24+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:53:25+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:53:25+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:53:25+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:53:27+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:53:30+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:53:30+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:53:31+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:53:31+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:53:32+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:53:46+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:54:42+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:54:45+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:55:32+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:55:51+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:56:22+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:56:26+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:56:46+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:56:58+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:56:58+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:57:01+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:57:01+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:57:02+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:57:02+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:57:02+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:57:03+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:57:03+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:57:05+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:57:07+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:59:05+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:59:09+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:59:13+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:59:15+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:59:25+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:59:42+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:59:49+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:59:55+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:59:56+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T16:59:57+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:05:36+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:05:38+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:05:39+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:05:39+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:05:40+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:09:50+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:10:07+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:10:24+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:11:04+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:11:30+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:14:32+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:14:36+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:15:10+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:15:13+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:15:13+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:17:17+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:17:20+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:36:32+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:36:37+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:36:38+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:36:39+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:36:40+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:36:40+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:36:40+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:58:21+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:58:27+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:58:27+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:58:28+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:58:28+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T17:58:28+08:00 ] ::1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T18:07:08+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T18:09:26+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T18:09:29+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T18:09:35+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T18:09:43+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T18:09:49+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T18:09:58+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T18:10:00+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T18:10:02+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T18:10:02+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T18:10:04+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T18:10:06+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-28T18:10:14+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: url C:\wamp\www\thinkcmf\application\Common\Controller\AppframeController.class.php 第 24 行.
+

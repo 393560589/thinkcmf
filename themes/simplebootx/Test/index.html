@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>{$site_name}</title>
+<meta name="keywords" content="{$site_seo_keywords}" />
+<meta name="description" content="{$site_seo_description}">
+<meta name="author" content="ThinkCMF">
+<include file="Public:head" />
+<style>
+.control-label{
+	font-weight: bold;
+	float: left;
+	width: 70px;
+}
+</style>
+</head>
+<a href="{:U('Test/index/test',array('id'=>$vo.id))}">这是一个Test页面;</a>
+</br>
+<a href="#">{$name}</a>
+</br>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<volist name="b" id="vo">
+输出的关键字:{$vo.post_keywords}
+</br>
+输出的标题是:{$vo.post_title}
+</br>
+</volist>
+输出的模板的内容为:{$b}
+</br>
+</html>

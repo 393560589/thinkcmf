@@ -1,0 +1,156 @@
+[ 2016-07-20T15:05:43+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=Menu&a=index&menuid=100
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2016-07-20T15:10:04+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=slide&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ty_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ty_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ty_slide` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ty_slide_cat` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `ty_slide` (`slide_cid`,`slide_name`,`slide_url`,`slide_des`,`slide_content`,`slide_pic`) VALUES ('0','这是我的','','','','/thinkcmf/data/upload/20160720/578f23c794cdc.jpg') [ RunTime:0.0000s ]
+
+[ 2016-07-20T15:17:10+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=slide&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ty_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ty_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ty_slide` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ty_slide_cat` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `ty_slide` (`slide_cid`,`slide_name`,`slide_url`,`slide_des`,`slide_content`,`slide_pic`) VALUES ('0','dsdasd ','','','','/thinkcmf/data/upload/20160720/578f256f5af14.png') [ RunTime:0.0000s ]
+
+[ 2016-07-20T15:19:34+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=nav&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ty_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ty_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ty_nav` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ty_nav_cat` [ RunTime:0.0100s ]
+NOTIC: [8] Undefined index: validate C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `ty_nav` (`cid`,`parentid`,`label`,`href`,`target`,`icon`,`status`) VALUES ('1','0','新闻中心','','','','1') [ RunTime:0.0000s ]
+SQL: UPDATE `ty_nav` SET `cid`='1',`parentid`='0',`label`='新闻中心',`href`='',`target`='',`icon`='',`status`='1',`path`='0-9' WHERE `id` = 9 [ RunTime:0.0000s ]
+
+[ 2016-07-20T15:26:52+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=Menu&a=index&menuid=100
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2016-07-20T15:27:13+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=nav&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ty_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ty_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ty_nav` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ty_nav_cat` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `ty_nav` (`cid`,`parentid`,`label`,`href`,`target`,`icon`,`status`) VALUES ('1','0','关于我们','home','','','1') [ RunTime:0.0000s ]
+SQL: UPDATE `ty_nav` SET `cid`='1',`parentid`='0',`label`='关于我们',`href`='home',`target`='',`icon`='',`status`='1',`path`='0-10' WHERE `id` = 10 [ RunTime:0.0000s ]
+
+[ 2016-07-20T15:29:31+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=navcat&a=edit_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `ty_users` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ty_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ty_nav_cat` [ RunTime:0.0050s ]
+SQL: UPDATE `ty_nav_cat` SET `active`='0' WHERE ( active=1 ) [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `ty_nav_cat` SET `name`='主导航',`remark`='主导航',`active`='1' WHERE `navcid` = 1 [ RunTime:0.0000s ]
+
+[ 2016-07-20T15:29:49+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=nav&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `ty_users` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `ty_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ty_nav` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ty_nav_cat` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `ty_nav` (`cid`,`parentid`,`label`,`href`,`target`,`icon`,`status`) VALUES ('1','0','联系我们','home','','','1') [ RunTime:0.0000s ]
+SQL: UPDATE `ty_nav` SET `cid`='1',`parentid`='0',`label`='联系我们',`href`='home',`target`='',`icon`='',`status`='1',`path`='0-11' WHERE `id` = 11 [ RunTime:0.0000s ]
+
+[ 2016-07-20T15:34:33+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=nav&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `ty_users` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `ty_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ty_nav` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ty_nav_cat` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: validate C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `ty_nav` (`cid`,`parentid`,`label`,`href`,`target`,`icon`,`status`) VALUES ('1','0','案例展示','home','','','1') [ RunTime:0.0000s ]
+SQL: UPDATE `ty_nav` SET `cid`='1',`parentid`='0',`label`='案例展示',`href`='home',`target`='',`icon`='',`status`='1',`path`='0-12' WHERE `id` = 12 [ RunTime:0.0000s ]
+
+[ 2016-07-20T15:35:18+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=nav&a=edit_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `ty_users` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ty_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ty_nav` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ty_nav_cat` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `ty_nav` SET `cid`='1',`parentid`='0',`label`='案例展示',`href`='home',`target`='',`icon`='',`status`='1',`path`='0-12' WHERE `id` = 12 [ RunTime:0.0000s ]
+
+[ 2016-07-20T15:46:18+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=nav&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `ty_users` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ty_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ty_nav` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ty_nav_cat` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `ty_nav` (`cid`,`parentid`,`label`,`href`,`target`,`icon`,`status`) VALUES ('1','0','产品服务','home','','','1') [ RunTime:0.0000s ]
+SQL: UPDATE `ty_nav` SET `cid`='1',`parentid`='0',`label`='产品服务',`href`='home',`target`='',`icon`='',`status`='1',`path`='0-13' WHERE `id` = 13 [ RunTime:0.0000s ]
+
+[ 2016-07-20T17:48:32+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=nav&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `ty_users` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `ty_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ty_nav` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ty_nav_cat` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: validate C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `ty_nav` (`cid`,`parentid`,`label`,`href`,`target`,`icon`,`status`) VALUES ('1','0','主营业务','home','','','1') [ RunTime:0.0000s ]
+SQL: UPDATE `ty_nav` SET `cid`='1',`parentid`='0',`label`='主营业务',`href`='home',`target`='',`icon`='',`status`='1',`path`='0-14' WHERE `id` = 14 [ RunTime:0.0010s ]
+
+[ 2016-07-20T17:48:44+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=nav&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `ty_users` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `ty_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ty_nav` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ty_nav_cat` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: validate C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `ty_nav` (`cid`,`parentid`,`label`,`href`,`target`,`icon`,`status`) VALUES ('1','0','企业文化','home','','','1') [ RunTime:0.0000s ]
+SQL: UPDATE `ty_nav` SET `cid`='1',`parentid`='0',`label`='企业文化',`href`='home',`target`='',`icon`='',`status`='1',`path`='0-15' WHERE `id` = 15 [ RunTime:0.0010s ]
+

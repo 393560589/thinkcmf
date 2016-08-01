@@ -1,0 +1,89 @@
+
+<style>
+.bottom {
+	background-color: #23282c;
+	height:auto;
+}
+.dibu1 {
+	background-color: #2d3236;
+	height: 190px;
+}
+.banquan {
+	font-size: 14px;
+	line-height: 59px;
+	font-weight: 700;
+	color: #c6cacd;
+	text-align: center;
+	height: 59px;
+}
+.bottom .dibu1 .dibu_list.center {
+	padding-top: 14px;
+}
+.bottom .dibu1 .dibu_list.center table tr td h3 {
+	color: #cccdd1;
+	line-height: 30px;
+	font-size: 16px;
+	font-weight: 700;
+	
+}
+.bottom .dibu1 .dibu_list.center table tr td .wm a {
+	font-size: 14px;
+	line-height: 30px;
+	color: #cccdd1;
+	margin: 10px;
+}
+.bottom .dibu1 .dibu_list.center table tr td .wm {
+	color: #cccdd1;
+}
+.bottom .dibu1 .dibu_list.center table tr td {
+	text-align: left;
+}
+.bottom .dibu1 .dibu_list.center table tr td h4 {
+	line-height: 40px;
+	color: #cccdd1;
+	font-size: 14px;
+}
+.bottom .dibu1 .dibu_list.center table tr td table {
+	color: #a8a9ab;
+}
+.bottom .dibu1 .dibu_list.center table tr td table tr td {
+	line-height: 30px;
+	text-align: center;
+}
+.di
+{
+width:100%;
+height:200px;
+background:#4abe00;
+}
+
+</style>
+<!-- Footer这是页脚需要重新写-->
+<!-- 	   <link rel="stylesheet" href="__TMPL__Public/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="__TMPL__Public/css/global.css" />
+		<link rel="stylesheet" href="__TMPL__Public/css/style1.css" /> -->
+{:hook('footer')}
+	<!--  <div class="links">
+		<php>$links=sp_getlinks();</php>
+		<volist name="links" id="vo">
+			<a href="{$vo.link_url}" target="{$vo.link_target}">{$vo.link_name}|</br></a>
+		</volist>
+	</div>  -->
+	<hr>
+	<div>
+	<p >
+    <center>
+	<tr style="font-family:宋体;color:blue;"><a href="javascript:void"style="text-decoration:none;color:grey;"target="_blank">关于我们 &nbsp;|&nbsp;联系我们&nbsp;|&nbsp;欢迎合作&nbsp;|&nbsp;法律声明&nbsp;|&nbsp;服务条款&nbsp;|&nbsp;客服中心 
+	</a></tr>
+</br>	
+</br>
+	<a href="http://www.51taohuo.com" target="_blank"style="text-decoration:none;">天缘网络技术有限公司@copyRight2009-<php>echo date('Y',time());</php>版权所有，翻版必究</a>
+	</center>
+	</p>
+</div>
+{$site_tongji}
+
+
+
+
+

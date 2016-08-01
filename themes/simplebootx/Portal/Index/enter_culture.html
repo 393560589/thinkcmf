@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<title>企业文化-{$site_name} </title>
+		<meta name="keywords" content="{$post_keywords}" />
+		<meta name="description" content="{$post_excerpt}">
+		<tc_include file="Public:head" />
+		<style>
+			#article_content img{height:80px; !important}
+			#article_content {word-wrap: break-word;}
+    		.btn {margin-top: 33px;}
+			h2{
+			   font-size:25px;
+			   color:#000;
+			}
+		</style>
+	</head>
+<body class="">
+<tc_include file="Public:nav" />
+<div class="container tc-main">
+	<div class="row">
+		<div class="span9">
+			
+			<div class="tc-box first-box article-box">
+		    	<h2><b style="font-size:27px;">|</b>您当前的位置&gt;&gt;{$name}</h2>
+		    	<div class="article-infobox">
+		 
+		    	</div>
+		    	<hr>
+ <div>
+<div class="indexBoxTwoNewsLeftText">
+<php>
+$a=sp_sql_posts('cid:13;field:post_title,post_modified,post_content,smeta,post_excerpt,tid;order:post_modified desc;');
+</php>
+						    <volist name="a" id="vo">
+                         <div style="float:left;width:700px;">
+                            <!--     <img src="__TMPL__Public/images/2.png" alt=""> -->
+                               <!-- <a href="{:U('portal/article/index',array('id'=>$vo['tid'],'cid'=>$vo['term_id']))}" > --><!-- <h3>{$vo.post_title}</h3> --><!-- </a> -->
+                            </div>
+                            <div style="float:left;">{$vo.post_content}</div>
+					
+                             <p style="clear:both;"></p>
+						</volist>
+                        </div>
+                    </div>
+		   
+						</hr>
+					<div class="clearfix"></div>
+				</div>
+		   <!-- 	
+		    	{:hook('comment',array(
+		    		'post_id'=>$object_id,
+		    		'post_table'=>'posts',
+		    		'post_title'=>$post_title
+		    	))}	
+          -->
+<tc_include file="Public:footer"/>
+</div>
+<tc_include file="Public:scripts"/>
+</body>
+</html>

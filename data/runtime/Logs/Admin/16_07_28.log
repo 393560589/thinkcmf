@@ -1,0 +1,11 @@
+[ 2016-07-28T09:22:51+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=public&a=dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `ty_users` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ty_users` WHERE `user_login` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ty_role_user` [ RunTime:0.0030s ]
+SQL: SELECT `role_id` FROM ty_role_user a INNER JOIN ty_role as b on a.role_id =b.id  WHERE `user_id` = '1' AND `status` = 1  [ RunTime:0.0010s ]
+SQL: UPDATE `ty_users` SET `user_login`='admin',`user_pass`='###1943c55e3ace1f6102be589e70e2abac',`user_nicename`='admin',`user_email`='2740478497@qq.com',`user_url`='',`avatar`=NULL,`sex`='0',`birthday`=NULL,`signature`=NULL,`last_login_ip`='127.0.0.1',`last_login_time`='2016-07-28 09:22:51',`create_time`='2016-07-12 11:31:17',`user_activation_key`='',`user_status`='1',`score`='0',`user_type`='1',`coin`='0',`mobile`='' WHERE `id` = '1' [ RunTime:0.0000s ]
+

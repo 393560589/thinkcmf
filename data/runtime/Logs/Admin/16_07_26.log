@@ -1,0 +1,14 @@
+[ 2016-07-26T15:38:08+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=setting&a=site_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ty_users` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ty_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ty_options` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ty_options` WHERE ( option_name='site_options' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `ty_options` SET `option_id`='2',`option_name`='site_options',`option_value`='{\"site_name\":\"\\u5929\\u7f18\\u7f51\\u7edc\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8\",\"site_host\":\"http:\\/\\/localhost\\/\",\"site_admin_url_password\":\"localhost\\/thinkcmf\\/?admin\",\"site_tpl\":\"simplebootx\",\"mobile_tpl_enabled\":\"1\",\"site_adminstyle\":\"bluesky\",\"html_cache_on\":\"1\",\"site_icp\":\"\",\"site_admin_email\":\"2740478497@qq.com\",\"site_tongji\":\"\",\"site_copyright\":\"copyright@2009-2016\\u5929\\u7f18\\u7f51\\u7edc\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8\",\"site_seo_title\":\"\\u5929\\u7f18\\u7f51\\u7edc\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8\",\"site_seo_keywords\":\"\\u5929\\u7f18\\u7f51\\u7edc\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8\",\"site_seo_description\":\"\\u5929\\u7f18\\u7f51\\u7edc\\u6280\\u672f\\u6709\\u9650\\u516c\\u53f8\",\"urlmode\":\"0\",\"html_suffix\":\"\",\"comment_time_interval\":60}' WHERE ( option_name='site_options' ) [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ty_options` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ty_options` WHERE ( option_name='cmf_settings' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `ty_options` SET `option_name`='cmf_settings',`option_value`='{\"banned_usernames\":\"\"}' WHERE ( option_name='cmf_settings' ) [ RunTime:0.0000s ]
+

@@ -1,0 +1,37 @@
+[ 2016-07-27T09:03:25+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=public&a=dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `ty_users` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ty_users` WHERE `user_login` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ty_role_user` [ RunTime:0.0040s ]
+SQL: SELECT `role_id` FROM ty_role_user a INNER JOIN ty_role as b on a.role_id =b.id  WHERE `user_id` = '1' AND `status` = 1  [ RunTime:0.0020s ]
+SQL: UPDATE `ty_users` SET `user_login`='admin',`user_pass`='###1943c55e3ace1f6102be589e70e2abac',`user_nicename`='admin',`user_email`='2740478497@qq.com',`user_url`='',`avatar`=NULL,`sex`='0',`birthday`=NULL,`signature`=NULL,`last_login_ip`='127.0.0.1',`last_login_time`='2016-07-27 09:03:25',`create_time`='2016-07-12 11:31:17',`user_activation_key`='',`user_status`='1',`score`='0',`user_type`='1',`coin`='0',`mobile`='' WHERE `id` = '1' [ RunTime:0.0010s ]
+
+[ 2016-07-27T09:31:06+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=slide&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `ty_users` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ty_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ty_slide` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ty_slide_cat` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `ty_slide` (`slide_cid`,`slide_name`,`slide_url`,`slide_des`,`slide_content`,`slide_pic`) VALUES ('1','ffd  ','dvdv ','','','/thinkcmf/data/upload/20160727/57980ed84e201.jpg') [ RunTime:0.0000s ]
+
+[ 2016-07-27T10:32:22+08:00 ] 127.0.0.1 /thinkcmf/index.php?g=Admin&m=slide&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `ty_users` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ty_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ty_slide` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ty_slide_cat` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\wamp\www\thinkcmf\simplewind\Core\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `ty_slide` (`slide_cid`,`slide_name`,`slide_url`,`slide_des`,`slide_content`,`slide_pic`) VALUES ('1','天缘网络技术有限公司','','','','/thinkcmf/data/upload/20160727/57981d339d083.jpg') [ RunTime:0.0010s ]
+
